@@ -1,4 +1,4 @@
-# Diagrama de Relacionamento – Abreu
+# Diagrama Relacional– Abreu
 
 ## EMPRESA
 
