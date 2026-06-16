@@ -1,6 +1,6 @@
-# 📘 Dicionário de Dados – Abreu
+# Dicionário de Dados – Abreu
 
-## 🏢 Tabela: EMPRESA  
+## Tabela: EMPRESA  
 Armazena os dados cadastrais das empresas vinculadas ao processo.
 
 | Coluna       | Tipo          | Nulo | Observações |
@@ -14,7 +14,7 @@ Armazena os dados cadastrais das empresas vinculadas ao processo.
 
 ---
 
-## 🏛️ Tabela: MUNICIPIO  
+##  Tabela: MUNICIPIO  
 Armazena os dados dos municípios que possuem núcleos de REURB.
 
 | Coluna       | Tipo          | Nulo | Observações |
@@ -28,7 +28,7 @@ Armazena os dados dos municípios que possuem núcleos de REURB.
 
 ---
 
-## 🏘️ Tabela: NUCLEO  
+##  Tabela: NUCLEO  
 Armazena os dados dos núcleos urbanos em processo de regularização.
 
 | Coluna       | Tipo          | Nulo | Observações |
@@ -42,7 +42,7 @@ Armazena os dados dos núcleos urbanos em processo de regularização.
 
 ---
 
-## 👨‍💼 Tabela: COLABORADOR  
+##  Tabela: COLABORADOR  
 Armazena os dados dos colaboradores que atuam nos cadastros.
 
 | Coluna     | Tipo          | Nulo | Observações |
@@ -58,7 +58,7 @@ Armazena os dados dos colaboradores que atuam nos cadastros.
 
 ---
 
-## 🏠 Tabela: MORADOR  
+##  Tabela: MORADOR  
 Armazena os dados dos moradores cadastrados nos núcleos.
 
 | Coluna          | Tipo          | Nulo | Observações |
@@ -74,7 +74,7 @@ Armazena os dados dos moradores cadastrados nos núcleos.
 
 ---
 
-## 📑 Tabela: DOCUMENTO  
+##  Tabela: DOCUMENTO  
 Armazena os documentos entregues pelos moradores.
 
 | Coluna                           | Tipo          | Nulo | Observações |
