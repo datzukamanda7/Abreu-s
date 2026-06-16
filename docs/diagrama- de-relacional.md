@@ -99,4 +99,3 @@ Núcleo → Colaborador (1:N)
 Núcleo → Morador (1:N)
 
 Morador → Documento (1:N)
-
