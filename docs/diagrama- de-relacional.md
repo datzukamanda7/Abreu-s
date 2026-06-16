@@ -1,4 +1,4 @@
-# Dicionário de Dados – Abreu
+# Diagrama de Relacionamento – Abreu
 
 ## EMPRESA
 
