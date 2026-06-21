@@ -77,4 +77,35 @@ Ferramentas	GitHub, Visual Paradigman, VS Code, Figma
    - Total de processos com status **"Em andamento"**  
    - Data do cadastro mais recente
    -  Nome do colaborador responsável pelo municipio
-   **Ordenação:** decrescente pelo total de cadastros.  
+   **Ordenação:** decrescente pelo total de cadastros.
+
+Relatório 1 (ORDER BY / WHERE): Listar
+todos os cadastros com status 'Pendente de
+Análise', apresentando o nome do morador, o
+CPF, o endereço do imóvel, o núcleo urbano
+ao qual pertence e a data de cadastramento.
+Ordenar pela data de cadastramento
+crescente.
+Relatório 2 (JOIN): Listar os cadastros de
+REURB com as informações do imóvel
+correspondente, exibindo o nome do morador,
+o CPF, o endereço completo, a área total em
+m², o tipo de construção e o status atual do
+processo. Exibir apenas cadastros com
+processo em andamento. Ordenar pelo nome
+do morador em ordem alfabética.
+Relatório 3 (JOIN): Listar os documentos
+entregues por cada cadastrado, exibindo o
+nome do morador, o tipo de documento, a data
+de entrega e o nome do servidor responsável
+pelo recebimento. Exibir apenas documentos
+entregues nos últimos 60 dias. Ordenar pelo
+nome do morador e, em seguida, pela data de
+entrega.
+Relatório 4 (Sumarização): Para cada núcleo
+urbano, apresentar o total de cadastros
+realizados, o total de processos com status
+'Aprovado', o total de processos com status
+'Pendente' e a data do cadastro mais recente.
+Ordenar pelo total de cadastros de forma
+decrescente
