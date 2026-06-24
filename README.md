@@ -23,9 +23,9 @@ Controle de status e auditoria de cadastros.
 Amanda Cristina Datzuk de Abreu
 
 ⚙️ Tecnologias Utilizadas
-Linguagens de Programação:	Java
-Banco de Dados	PostgreSQL
-Ferramentas	GitHub, Visual Paradigman, VS Code, Figma
+Linguagens de Programação:	Java,
+Banco de Dados	PostgreSQL,
+Ferramentas	GitHub, Visual Paradigman, VS Code, Figma.
 
 
 ## 📊 Relatórios / Consultas Previstas
